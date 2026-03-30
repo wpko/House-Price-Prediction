@@ -2,6 +2,7 @@
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![FastAPI](https://img.shields.io/badge/FastAPI-Backend-green)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Frontend-red)
+
 This project is a full-stack Machine Learning application that predicts house prices using a trained LightGBM model. It includes a FastAPI backend for prediction and a Streamlit frontend for user interaction and visualization.
 
 ---
