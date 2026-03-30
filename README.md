@@ -62,18 +62,25 @@ House-Price-API/
 ## ⚙️ Installation
 
 1️⃣ Clone the repository
-```bash
+```
+bash
 git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name```
+cd your-repo-name
+```
 2️⃣ Create virtual environment
-```python -m venv venv```
+```
+python -m venv venv
 venv\Scripts\activate   # Windows
+```
 3️⃣ Install dependencies
-```pip install -r requirements.txt```
+```
+pip install -r requirements.txt
+```
 ▶️ Run Locally
-```Start FastAPI
-uvicorn app.main:app --reload```
-
+```
+Start FastAPI
+uvicorn app.main:app --reload
+```
 👉 Open: http://127.0.0.1:8000/docs
 
 Start Streamlit
