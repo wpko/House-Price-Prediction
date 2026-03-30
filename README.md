@@ -105,7 +105,7 @@ Response
   "predicted_price": 203925.23,
   "status": "success"
 }
-🧠 Explainability
+# 🧠 Explainability
 📊 Feature Importance (LightGBM)
 🧠 SHAP values (optional, enabled in UI)
 ☁️ Deployment
@@ -116,10 +116,11 @@ Frontend: Streamlit deployed on Render
 🤖 Advanced SHAP visualization
 📈 Model performance dashboard
 🌍 Multi-dataset support
-👨‍💻 Author
+
+# 👨‍💻 Author
 
 Wai Lay
 
-⭐ If you like this project
+##⭐ If you like this project
 
 Give it a star ⭐ on GitHub!
