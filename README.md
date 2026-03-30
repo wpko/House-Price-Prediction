@@ -124,7 +124,7 @@ Frontend: Streamlit deployed on Render
 
 # 👨‍💻 Author
 
-Wai Lay
+Wai Phyo Ko
 
 ##⭐ If you like this project
 
