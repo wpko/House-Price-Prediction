@@ -86,6 +86,7 @@ uvicorn app.main:app --reload
 Start Streamlit
 streamlit run streamlit_app.py
 📡 API Usage
+```
 POST /predict
 Request Body (JSON)
 {
@@ -105,7 +106,10 @@ Response
   "predicted_price": 203925.23,
   "status": "success"
 }
+```
+
 # 🧠 Explainability
+```
 📊 Feature Importance (LightGBM)
 🧠 SHAP values (optional, enabled in UI)
 ☁️ Deployment
@@ -116,6 +120,7 @@ Frontend: Streamlit deployed on Render
 🤖 Advanced SHAP visualization
 📈 Model performance dashboard
 🌍 Multi-dataset support
+```
 
 # 👨‍💻 Author
 
