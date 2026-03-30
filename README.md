@@ -41,7 +41,7 @@ This project is a full-stack Machine Learning application that predicts house pr
 
 ## 🏗️ Project Structure
 
-
+```
 House-Price-API/
 │
 ├── app/
@@ -56,8 +56,7 @@ House-Price-API/
 ├── streamlit_app.py # Streamlit UI
 ├── requirements.txt
 └── README.md
-
-
+```
 ---
 
 ## ⚙️ Installation
