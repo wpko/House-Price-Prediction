@@ -115,16 +115,19 @@ Response
 # 🧠 Explainability
 ```
 📊 Feature Importance (LightGBM)
-🧠 SHAP values (optional, enabled in UI)
 ☁️ Deployment
 Backend: FastAPI deployed on Render
 Frontend: Streamlit deployed on Render
-💡 Future Improvements
+
+#💡 Future Improvements
+🧠 SHAP values
 📊 Interactive Plotly charts
 🤖 Advanced SHAP visualization
 📈 Model performance dashboard
 🌍 Multi-dataset support
 ```
+
+---
 
 # 👨‍💻 Author
 
