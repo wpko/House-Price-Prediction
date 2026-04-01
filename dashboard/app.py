@@ -3,7 +3,6 @@ import requests
 import pandas as pd
 import matplotlib.pyplot as plt
 import joblib
-import shap
 
 API_URL = "https://house-price-prediction-fastapi-7kxt.onrender.com/predict"
 
