@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 import joblib
 import shap
 
-API_URL = "http://localhost:8000/predict"
+API_URL = "https://house-price-prediction-fastapi-7kxt.onrender.com/predict"
 
 st.set_page_config(page_title = "House Price Predictor",page_icon="🏠",layout="wide")
 st.title("🏠 House Price Prediction")
