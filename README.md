@@ -47,16 +47,17 @@ This project is a full-stack Machine Learning application that predicts house pr
 ```
 House-Price-API/
 │
-├── app/
-│ └── main.py # FastAPI app
-│
+├── api/
+      └── main.py # FastAPI app
+├── dashboard/
+      └── app.py # Streamlit UI
+├── data
+      └── dataset.csv
 ├── model/
-│ ├── train.py # Training script
-│ ├── Predict_fun.py # Prediction logic
-│ └── saved_model/
-│ └── model.pkl # Trained model
-│
-├── streamlit_app.py # Streamlit UI
+      └── train.py # Training script
+      └── Predict_fun.py # Prediction logic
+├── saved_model/
+      └── model.pkl # Trained model
 ├── requirements.txt
 └── README.md
 ```
