@@ -9,8 +9,8 @@ This project is a full-stack Machine Learning application that predicts house pr
 
 ## 🚀 Live Demo
 
-- 🌐 Frontend (Streamlit): [Your Streamlit URL]
-- ⚡ Backend API (FastAPI): [Your Render API URL]
+- 🌐 Frontend (Streamlit): [Your Streamlit URL]https://house-price-prediction-streamlit-4xb6.onrender.com
+- ⚡ Backend API (FastAPI): [Your Render API URL]https://house-price-prediction-fastapi-7kxt.onrender.com
 
 ---
 
