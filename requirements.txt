@@ -6,3 +6,4 @@ streamlit
 matplotlib
 pydantic
 joblib
+lightgbm
