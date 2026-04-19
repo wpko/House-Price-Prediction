@@ -12,7 +12,7 @@ This project is a full-stack Machine Learning application that predicts house pr
 - 🌐 Frontend (Streamlit): https://house-price-prediction-streamlit-4xb6.onrender.com
 - ⚡ Backend API (FastAPI): https://house-price-prediction-fastapi-7kxt.onrender.com
 ## ⚠️ **Important:** Please run the FastAPI backend first before using the Streamlit app.
-## Otherwise, the app will not return any responses.
+## ⚠️ Otherwise, the app will not return any responses.
 
 ---
 
