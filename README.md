@@ -131,8 +131,7 @@ Frontend: Streamlit deployed on Render
 
 # 👨‍💻 Author
 
-Wai Phyo Ko
+## Wai Phyo Ko
 
-##⭐ If you like this project
-
-Give it a star ⭐ on GitHub!
+## ⭐ If you like this project
+## Give it a star ⭐ on GitHub!
